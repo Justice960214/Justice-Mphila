@@ -59,20 +59,55 @@ PROJECTS
 ------------------------------------------------------------
 
 CERTIFICATIONS
-CompTIA (Coursera)  
-• Security+ (SY0-701)  
-• Cybersecurity Analyst (CySA+) CS0-003  
 
-Cisco Networking Academy  
-• Introduction to Cybersecurity  
-• Networking Basics  
-• Networking Devices & Initial Configuration  
-• Network Support & Security  
-• Security & Connectivity  
-• Cyber Threat Management  
-• Endpoint Security  
-• Network Defense  
-• Ethical Hacker
+CompTIA (Coursera)
+• [CompTIA-Security+.pdf](CompTIA-Security+.pdf)
+• [CompTIA-CybersecurityAnalyst-CS0-003.pdf](CompTIA-CybersecurityAnalyst-CS0-003.pdf)
+• [CompTIA-Cybersecurity-Analyst-CS0-003-Unit-1.pdf](CompTIA-Cybersecurity-Analyst-CS0-003-Unit-1.pdf)
+• [CompTIA-Cybersecurity-Analyst-CS0-003-Unit-2.pdf](CompTIA-Cybersecurity-Analyst-CS0-003-Unit-2.pdf)
+• [CompTIA-Cybersecurity-Analyst-CS0-003-Unit-3.pdf](CompTIA-Cybersecurity-Analyst-CS0-003-Unit-3.pdf)
+• [CompTIA-Cybersecurity-Analyst-CS0-003-Unit-4.pdf](CompTIA-Cybersecurity-Analyst-CS0-003-Unit-4.pdf)
+• [CompTIA-Cybersecurity-Analyst-CS0-003-Unit-5.pdf](CompTIA-Cybersecurity-Analyst-CS0-003-Unit-5.pdf)
+• [CompTIA-CySA.pdf](CompTIA-CySA.pdf)
+• [CompTIA-Security-SY0701.pdf](CompTIA-Security-SY0701.pdf)
+
+Cisco Networking Academy
+• [Introduction_to_Cybersecurity_certificate.pdf](Introduction_to_Cybersecurity_certificate.pdf)
+• [Network_Defense_certificate.pdf](Network_Defense_certificate.pdf)
+• [Network_Support_and_Security_certificate.pdf](Network_Support_and_Security_certificate.pdf)
+• [Endpoint_Security_certificate.pdf](Endpoint_Security_certificate.pdf)
+• [Ethical_Hacker_certificate.pdf](Ethical_Hacker_certificate.pdf)
+• [Cyber_Threat_Management_certificate.pdf](Cyber_Threat_Management_certificate.pdf)
+• [Security_and_Connectivity_Support_certificate.pdf](Security_and_Connectivity_Support_certificate.pdf)
+
+Other Cerifications (Coursera)
+• [Algebra_Machine_Learning_Certificate.pdf](Algebra_Machine_Learning_Certificate.pdf)
+• [Analyze-Data-to-Answer-Questions.pdf](Analyze-Data-to-Answer-Questions.pdf)
+• [Applied-Software-Engineering-Fundamentals.pdf](Applied-Software-Engineering-Fundamentals.pdf)
+• [Computer_Hardware_Basics_certificate.pdf](Computer_Hardware_Basics_certificate.pdf)
+• [Cybersecurity-Architecture.pdf](Cybersecurity-Architecture.pdf)
+• [Cybersecurity-Foundations-&-Threat-Mitigation.pdf](Cybersecurity-Foundations-&-Threat-Mitigation.pdf)
+• [Data-Analysis-With-R-Programming.pdf](Data-Analysis-With-R-Programming.pdf)
+• [Developing-AI-Applications-with-Python-and-Flask.pdf](Developing-AI-Applications-with-Python-and-Flask.pdf)
+• [Foundations,-Data-Data-Everywhere.pdf](Foundations,-Data-Data-Everywhere.pdf)
+• [Foundations-Of-Cybersecurity.pdf](Foundations-Of-Cybersecurity.pdf)
+• [Google-Data-Analytics,-Capstone-Complete-a-Case.pdf](Google-Data-Analytics,-Capstone-Complete-a-Case.pdf)
+• [Google-Data-Analytics-Certificate.pdf](Google-Data-Analytics-Certificate.pdf)
+• [Hands-on-Introduction-to-Linux-Commands-andShell-Scripting.pdf](Hands-on-Introduction-to-Linux-Commands-andShell-Scripting.pdf)
+• [Introduction-to-Cybersecurity-Careers.pdf](Introduction-to-Cybersecurity-Careers.pdf)
+• [Introduction-to-Cybersecurity-Essentials.pdf](Introduction-to-Cybersecurity-Essentials.pdf)
+• [Introduction-to-Cybersecurity-Tools-&-Cyberattacks.pdf](Introduction-to-Cybersecurity-Tools-&-Cyberattacks.pdf)
+• [Introduction-to-Software-Engineering.pdf](Introduction-to-Software-Engineering.pdf)
+• [Microsoft-SC-900-Exam-Preparation-and-Practice.pdf](Microsoft-SC-900-Exam-Preparation-and-Practice.pdf)
+• [Play-It-Safe-_Manage-Security-Risks.pdf](Play-It-Safe-_Manage-Security-Risks.pdf)
+• [Prepare-Data-For-Exploration.pdf](Prepare-Data-For-Exploration.pdf)
+• [Process-Data-from-Dirty-to-Clean.pdf](Process-Data-from-Dirty-to-Clean.pdf)
+• [Python-Data-Structures.pdf](Python-Data-Structures.pdf)
+• [Python-For-Data-Science,-AI-Development.pdf](Python-For-Data-Science,-AI-Development.pdf)
+• [Python-for-Data-Science-and-AI-Certificate.pdf](Python-for-Data-Science-and-AI-Certificate.pdf)
+• [Security-Architecture-&-Operations.pdf](Security-Architecture-&-Operations.pdf)
+• [Share-Data-Through-The-Art-Of-Visualisation.pdf](Share-Data-Through-The-Art-Of-Visualisation.pdf)
+• [SQL-for-Data-Science.pdf](SQL-for-Data-Science.pdf)
 
 ------------------------------------------------------------
 
