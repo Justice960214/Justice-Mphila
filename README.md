@@ -80,7 +80,11 @@ Cisco Networking Academy
 • [Cyber_Threat_Management_certificate.pdf](Cyber_Threat_Management_certificate.pdf)
 • [Security_and_Connectivity_Support_certificate.pdf](Security_and_Connectivity_Support_certificate.pdf)
 
+<<<<<<< HEAD
 Other Certifications
+=======
+Other Cerifications (Coursera)
+>>>>>>> 26c52131741a034e0e657d38c1480e0444c89c70
 • [Algebra_Machine_Learning_Certificate.pdf](Algebra_Machine_Learning_Certificate.pdf)
 • [Analyze-Data-to-Answer-Questions.pdf](Analyze-Data-to-Answer-Questions.pdf)
 • [Applied-Software-Engineering-Fundamentals.pdf](Applied-Software-Engineering-Fundamentals.pdf)
